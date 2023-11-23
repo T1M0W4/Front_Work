@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Satisfy&display=swap');
+
+body{
+    background-color: #e3bad5;
+}
+#h1-text{
+    color: #572646;
+    text-align: center;
+    font-family:'Satisfy', cursive;; 
+}
+#act1-h3{
+    color: #00AC6B;
+    text-align: center;
+    font-family: 'Satisfy', cursive; 
+}
+#prologue-h2{
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Satisfy', cursive; 
+}
+.text-poem{
+    color: #0F4DA8;
+    line-height: 21px;
+    word-spacing: 7px;
+    text-align: left;
+    white-space: pre;
+    letter-spacing: 5px;
+    font-family: 'Satisfy', cursive;    
+}
+p{
+    color: #0487A0;
+}
+.underlined-text{
+    text-decoration: underline;
+    font-family: 'Satisfy', cursive;
+    color: crimson;
+}
+.u-text{
+    text-decoration: none;
+    color: salmon;
+}
+b{
+    font-size: 30px;
+    font-family: 'Satisfy', cursive; 
+}
+strong{
+    font-size: 30px;
+    font-family: 'Francois One', sans-serif; 
+}
+.bold-big-letter{
+    font-weight: 900;
+    font-size: 30px;
+    font-family: 'Francois One', sans-serif; 
+}
+.uppercase{
+    text-transform: uppercase;
+    font-family: 'Francois One', sans-serif; 
+}
+.scene-1{
+    color: #e09865;
+    font-family: 'Francois One', sans-serif; 
+}
+.pre-pre-last-par{
+    color: #788eb3;
+    font-family: 'Francois One', sans-serif;
+    letter-spacing: 7px; 
+}
+.em-text{
+    color: inherit;
+    font-family: 'Satisfy', cursive; 
+}
+#samp-h2{
+    color: yellowgreen;
+    font-family: 'Francois One', sans-serif; 
+}
+.pre-last-par{
+    color: purple;
+    letter-spacing: 7px;
+    font-family: 'Francois One', sans-serif; 
+}
+.greg-h2{
+    color: #54a7d1;
+    font-family: 'Francois One', sans-serif; 
+}
+.last-par{
+    color: #db6b60;
+    letter-spacing: 7px;
+    font-family: 'Francois One', sans-serif; 
+}

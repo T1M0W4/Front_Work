@@ -1,0 +1,19 @@
+body{
+    background-color: #f3f4f5;
+}
+h1{
+    text-align: center;
+    font-weight: 900;
+}
+h2{
+    text-align: center;
+}
+.dotted-u{
+    text-decoration: none;
+    border-bottom: 2px dotted;
+    
+}
+.code-html{
+    background-color: #EBE9E4;
+    color: #8B0000;
+}
