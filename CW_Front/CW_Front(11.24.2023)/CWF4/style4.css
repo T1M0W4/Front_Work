@@ -1,0 +1,10 @@
+li{
+    list-style-image: url(icons8-duckduckgo-35.png);
+}
+
+ul{
+    list-style-type: square;
+}
+al{
+    list-style-type: lower-alpha;
+}
