@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+div{
+    width: 100vw; 
+    height: 100vh;
+    background-image: url(./img/1af689d42.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+nav{
+    padding-left: 100px;
+    padding-top: 250px;
+    color: rgb(48, 133, 133);
+    font-size: 25px;
+}
+a{
+    color: rgb(48, 133, 133);;
+}

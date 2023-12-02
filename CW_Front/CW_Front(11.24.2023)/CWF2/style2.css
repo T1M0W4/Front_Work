@@ -1,0 +1,10 @@
+div{
+    width: 500px;
+    height: 500px;
+    overflow: scroll;
+    background-color: rgb(224, 214, 202);
+    text-align: justify;
+}    
+.div1{
+    background-color: gray ;
+}

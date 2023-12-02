@@ -1,0 +1,27 @@
+div{
+    width: 150px; /*ширина*/
+    height: 150px; /*высота*/
+    display: block;
+}
+.div1{
+    background-color: blue;
+}
+.div2{
+    background-color: red;
+    display: none;
+}
+.div3{
+    background-color: cornflowerblue;
+    display: inline-block;
+}
+.div4{
+    background-color: green;
+    display: inline-block;
+}
+.div5{
+    background-color: rgb(60, 0, 128);
+}
+.div6{
+    background-color: rgb(128, 0, 43);
+    display: inline;
+}

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+div{
+    width: 150px;
+    height: 150px;
+}
+.div1{
+    background-color: aquamarine;
+    border-bottom: 3px solid rgb(112, 138, 76);
+    border-right: 3px solid rgb(112, 138, 76);
+    border-radius: 35%;       
+}
+.div2{
+    background-color: rgb(110, 152, 199);
+    margin-left: 150px;
+    border-bottom: 5px double rgb(153, 83, 160);
+    border-right: 5px double rgb(153, 83, 160);
+    border-radius: 25%;
+}
+.div3{
+    background-color: rgb(97, 212, 126);
+    margin-left: 300px;
+    border-bottom: 4px dashed rgb(211, 114, 75);
+    border-right: 4px dashed rgb(211, 114, 75);
+    border-radius: 15%;
+}
+.div4{
+    background-color: rgb(131, 100, 182);
+    margin-left: 450px;        
+}
+.cont{
+    margin-top: 500px;
+    margin-left: 1290px;
+}
+p{
+    margin-left: 15px;
+    margin-top: 15px;
+}
