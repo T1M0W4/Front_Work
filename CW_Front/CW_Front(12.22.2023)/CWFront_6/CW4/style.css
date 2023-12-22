@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(184, 74, 23);
+    text-align: center;
+}
+div{
+    margin-left: 720px;
+    width: 430px;
+    height: 600px;
+    display: block;
+    background-color: rgb(250, 247, 244);
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+}
+input{
+    text-align: center;
+    margin-top: 30px;
+    width: 300px;
+    height: 40px;
+    border: 1px solid grey;
+    font-size: 18px;
+}
+input[type="button"]{
+    background-color: rgb(57, 177, 57);
+    font-size: 12px;
+    color: aliceblue;
+    margin-bottom: 15px;
+}
+p{
+    text-align: center;
+}
+.text1{
+    font-size: 15px;
+    color: rgb(196, 99, 35);
+}
+.text2{
+    margin-top: 40px;
+    margin-right: 40px;
+    color: aliceblue;
+}
+input[class="t1"]{
+    background-color: rgb(20, 20, 139);
+    margin-top: 40px;
+    margin-right: 20px;
+    width: 140px;
+    height: 50px;
+}
+input[class="t2"]{
+    background-color: aqua;
+    margin-right: 30px;
+    width: 140px;
+    height: 50px;
+}

@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+input[type="email"]{
+    width: 250px;
+    height: 40px;
+    background-color: rgb(175, 93, 17);
+    color: #fff;
+    border: none;
+    border-bottom: 3px solid black;
+}
+::placeholder{
+    color: #fff;
+}
+:focus{
+    outline: none;
+}
+textarea{
+    resize: none;
+}
