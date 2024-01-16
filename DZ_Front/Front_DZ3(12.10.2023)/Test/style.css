@@ -1,0 +1,128 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+header{
+    width: 97vw;
+    height: 100px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 40000px;
+    background-color: rgb(255, 0, 93);
+}
+.header-text{
+    color: whitesmoke;
+    padding-top: 40px;
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: 700;
+}
+p{
+    color: white;
+}
+menu{
+    width: 97vw;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 40px;
+    background-color: rgb(115, 12, 50);
+}
+.menu-text{
+    color: whitesmoke;
+    padding-top: 15px;
+    padding-left: 50px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.container-outside{
+    width: 97vw;
+    height: 500px;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+.container-aside12{
+    width: 400px;
+    height: 500px;
+    float: left;
+
+}
+.aside-1{
+    width: 400px;
+    height: 150px;
+    background-color: rgb(255, 0, 123);
+}
+.aside-2{
+    margin-top: 17px;
+    width: 400px;
+    height: 250px;
+    background-color: rgb(255, 0, 123);
+}
+.aside-text-left{
+    color: whitesmoke;
+    padding-top: 35px;
+    padding-left: 50px;
+    font-size: 19px;
+    font-weight: 700;
+}
+.container-main{
+    width: 1200px;
+    height: 550px;
+    margin-left: 20px;
+    float: left;
+    background-color: rgb(255, 0, 123);
+}
+.main-content-text{
+    color: whitesmoke;
+    padding-top: 35px;
+    padding-left: 100px;
+    font-size: 23px;
+    font-weight: 700;
+}
+section{
+    width: 950px;
+    height: 160px;
+    background-color: rgb(243, 154, 197);
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.section-text{
+    color: whitesmoke;
+    padding-top: 35px;
+    padding-left: 100px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.aside-3{
+    float: left;
+    width: 200px;
+    height: 400px;
+    background-color: rgb(255, 0, 123);
+    margin-left: 20px;
+}
+.aside-right-text{
+    color: whitesmoke;
+    padding-top: 35px;
+    font-size: 25px;
+    font-weight: 700;
+    white-space: pre;
+    padding-left: 20px;
+}
+footer{
+    width: 97vw;
+    height: 50px;
+    margin-top: 65px;
+    margin-left: 20px;
+    background-color: rgb(115, 12, 50);
+}
+.footer-text{
+    color: whitesmoke;
+    padding-top: 10px;
+    padding-left: 100px;
+    font-size: 25px;
+    font-weight: 700;
+}
