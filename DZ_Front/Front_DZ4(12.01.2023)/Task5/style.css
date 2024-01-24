@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+footer{
+    width: 100vw;
+    height: 100vh;
+    background: url(./img/c6516c38-41dc-4786-ac8b-d02f5410f62d.avif) no-repeat;
+    opacity: 0.9;
+    background-size: cover;
+}
+.container-inner{
+    float: left;
+    padding-left: 180px;
+    padding-top: 70px;
+    font-size: 22px;
+}
+.images-container{
+    margin-top: 30px;
+    
+}
+p{
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(185, 241, 124);
+}
+.p-2{
+    width: 90px;
+    height: 180px;
+    margin-left: 150px;
+}
+hr{
+    float: none;
+    width: 1400px;
+    margin-left: 80px;
+}
+.copyright-text{
+    width: 300px;
+    height: 30px;
+    border-radius: 50px;
+    float: none;
+    margin-top: 50px;
+    margin-left: 650px;
+    font-size: 19px;
+}
+.facebook{
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+    background: url(./img/fb_gray.png) no-repeat;
+}
+.insta{
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+    margin-left: 50px;
+    background: url(./img/insta_gray.png) no-repeat;
+}
+.youtube{
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+    margin-left: 50px;
+    background: url(./img/insta_gray.png) no-repeat;
+}
+.facebook:hover{
+    background: url(./img/fb.png) no-repeat;
+}
+.insta:hover{
+    background: url(./img/insta.png) no-repeat;
+}
+.youtube:hover{
+    background: url(./img/youtube.png) no-repeat;
+}
+span:hover{
+    text-decoration: underline;
+}

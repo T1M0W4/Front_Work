@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.background{
+    width: 100vw;
+    height: 120vh;
+    background-image: url(./img/anime-ofis-1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.container{
+    border: 2px solid;
+    width: 1350px;
+    height: 330px;
+    color: rgb(31, 31, 56);
+    margin-top: 240px;
+    margin-left: 160px;
+    background-color: rgb(155, 205, 228);
+    position: absolute;
+}
+
+.inner-container{
+    margin-left: 50px;
+    margin-top: 60px;;
+}
+
+img{
+    width: 200px;
+    height: 220px;
+    margin-left: 5px;
+    border: 2px solid;
+}

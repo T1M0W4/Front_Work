@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.outer-box{
+    background-image: url(./img/bg.jpg);
+    width: 106vw;
+    height: 170vh;
+    background-size: cover;
+}
+
+.inner-box{
+    margin-left: 255px;
+    width: 1600px;
+    margin-top: 190px;
+    position: absolute;
+}
+
+.text{
+
+    margin-left: 35px;
+    font-size: 38px;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 100px;
+}
+p{
+    margin-top: 50px;
+    margin-left: 15px;
+    font-size: 40px;
+}
+a{
+    text-decoration: none;
+}
