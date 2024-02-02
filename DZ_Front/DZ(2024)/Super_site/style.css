@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(231, 211, 211);
+    font-family: 'Tinos', serif;
+    font-weight: 100;
+}
+.HEADER{
+    background-image: url(./font/hero\ image.png);
+    background-size: contain;
+    width: 70vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+
+}
+.text{
+    color:#D67E35;
+    position: relative;
+    top: 30%;
+    font-size: 18px;
+    width: 400px;
+    text-align: center;
+}
+h6{
+    color: #FFFFFF;
+    font-weight: 100;
+    position: relative;
+}
+h3{
+    font-weight: 100;
+}
+h1{
+    font-weight: 100;
+}
