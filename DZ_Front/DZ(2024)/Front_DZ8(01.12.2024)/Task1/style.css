@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #b0dce4;
+}
+img{
+    width: 100%;
+}
+p, h3{
+    background-color: white;
+}
+
+.main-flexbox-container{
+    justify-content: center;
+    margin: 20px 0;
+    display: flex;
+    position: relative;
+    gap: 20px;
+}
+.sub-main-container{
+    display: inherit;
+    flex-direction: column;
+    gap: 20px;
+}
+.flex-items{
+    max-width: 350px;
+    background-color: #c8c4c4;
+    display: inherit;
+    border: 2px solid black;
+    flex-wrap: wrap;
+}
+.inner-text{
+    background-color: white;
+    padding: 10px;
+    word-spacing: 9px;
+}

@@ -1,0 +1,42 @@
+.wrapper {
+    padding: 50px;
+  }
+  
+  .main-column {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .main-column__item {
+    margin: -12px 0;
+    display: flex;
+    justify-self: start;
+  }
+  .main-column__item:nth-child(even) {
+    justify-content: end;
+    flex-direction: row-reverse;
+  }
+  .main-column__profile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .main__column__message {
+    flex: 0 0 33.3%;
+    background-color: #ffb4c4;
+    border-radius: 30px;
+    padding: 10px;
+    border-bottom-left-radius: 0;
+  }
+  
+  .message2 {
+    background-color: #b0dce4;
+    border-radius: 30px;
+    border-bottom-right-radius: 0;
+  }/*# sourceMappingURL=style1.css.map */
