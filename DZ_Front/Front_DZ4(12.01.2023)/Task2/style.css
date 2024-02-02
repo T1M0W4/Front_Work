@@ -70,8 +70,8 @@ menu{
     font-weight: 700;
 }
 .container-main{
-    width: 1200px;
-    height: 550px;
+    width: 910px;
+    height: 480px;
     margin-left: 20px;
     float: left;
     background-color: rgb(255, 0, 123);
@@ -84,7 +84,7 @@ menu{
     font-weight: 700;
 }
 section{
-    width: 950px;
+    width: 750px;
     height: 160px;
     background-color: rgb(243, 154, 197);
     margin-top: 20px;
@@ -115,7 +115,7 @@ section{
 footer{
     width: 97vw;
     height: 50px;
-    margin-top: 65px;
+    margin-top: 55px;
     margin-left: 20px;
     background-color: rgb(115, 12, 50);
 }

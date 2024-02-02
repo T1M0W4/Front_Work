@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.main-box{
+    margin-left: 145px;
+}
+
+.box-form{   
+    width: 824px;
+    height: 612px;
+    background-image: url(img/moon_flag.png);
+    background-position: 150% 210%;
+    background-repeat: no-repeat;
+    background-color: #a0cccd;
+    border-radius: 2.5%;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.box-upper-text{
+    width: 650px;
+    height: 50px;
+    position: absolute;
+    background-color: #da6522;
+    margin-top: 50px;
+}
+.upper-text{
+    padding-top: 15px;
+    margin-left:80px;
+    color: #fbeed8;
+}
+
+
+
+
+form {
+    padding-top: 120px;
+    color: rgb(33, 99, 99);
+}
+
+
+.date input{
+    width: 10px;
+}
+
+.text-card-num{
+    font-size: 20px;
+    margin-left: 30px;
+}
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    opacity: 0.3;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+
+.data {
+    margin-top:50px;
+}
+
+.date {
+    display: flex;
+    align-items: end;
+ }
+
+
+
+.text-bottom{
+    padding-left: 30px;
+    font-size: 18px;
+}
+  
+input[type="number"]{
+width: 100px;
+height: 50px;
+}
+input[type="password"]{
+    width: 100px;
+    height: 50px;
+    }
+input[type="text"]{
+    width: 500px;
+    height: 50px;
+    }    

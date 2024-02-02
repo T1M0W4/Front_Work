@@ -1,0 +1,16 @@
+th, td{
+    border: 1px dashed;
+    pad: 25px 50px;
+    padding: 25px;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid;
+}
+.summ{
+    text-align: right;
+}
+.coloured{
+    background-color: #ddcb77;
+}
