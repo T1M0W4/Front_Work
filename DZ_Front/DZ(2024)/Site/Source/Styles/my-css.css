@@ -5,12 +5,20 @@ body{
     background: linear-gradient(0deg, rgb(235, 107, 107) 0%, #ffffff 100%);
 }
 
+p{
+    color: rgb(145, 45, 45);
+}
+
 .nav-link {
     color: rgb(206, 193, 193);
 }
 
 .navbar-nav .nav-link.active {
     color: rgb(235, 107, 107);
+}
+
+.navbar-brand button{
+    color: aqua;
 }
 
 .navbar-brand img{
@@ -24,4 +32,61 @@ body{
 .sidebar{
     background: linear-gradient(0deg, #ffffff 0%, rgb(235, 107, 107) 100%);
     box-shadow: 5px 5px 10px 1px #000000;
+}
+
+.card{
+    background: linear-gradient(0deg, #ffffff 0%, rgb(235, 107, 107) 100%);
+}
+
+.slide-text,
+.footer-text{
+    color: rgb(72, 78, 77);
+    margin: auto auto;
+}
+
+footer{
+    background: #000000;
+}
+.media-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anim{
+    animation: myAnim 3s ease 0s infinite normal forwards;
+}
+
+@keyframes myAnim {
+	0%,
+	100% {
+		transform: translateX(0);
+	}
+
+	10%,
+	30%,
+	50%,
+	70% {
+		transform: translateX(-10px);
+	}
+
+	20%,
+	40%,
+	60% {
+		transform: translateX(10px);
+	}
+
+	80% {
+		transform: translateX(8px);
+	}
+
+	90% {
+		transform: translateX(-8px);
+	}
+}
+
+@media (max-width: 755px){
+    .carousel-indicators{
+        display: none;
+    }
 }
