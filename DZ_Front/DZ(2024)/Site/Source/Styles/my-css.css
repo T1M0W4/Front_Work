@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Protest+Revolution&family=Satisfy&display=swap');
+
+body{
+    font-family: 'Protest Revolution', sans-serif;
+    background: linear-gradient(0deg, rgb(235, 107, 107) 0%, #ffffff 100%);
+}
+
+.nav-link {
+    color: rgb(206, 193, 193);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(235, 107, 107);
+}
+
+.navbar-brand img{
+    width: 65px;
+}
+
+.card{
+    box-shadow: 5px 5px 10px 1px #000000;
+}
+
+.sidebar{
+    background: linear-gradient(0deg, #ffffff 0%, rgb(235, 107, 107) 100%);
+    box-shadow: 5px 5px 10px 1px #000000;
+}

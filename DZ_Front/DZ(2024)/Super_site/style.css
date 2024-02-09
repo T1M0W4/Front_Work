@@ -4,36 +4,63 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
-    background-color: rgb(231, 211, 211);
+    background-color: rgb(202, 148, 148);
     font-family: 'Tinos', serif;
     font-weight: 100;
 }
+
 .HEADER{
     background-image: url(./font/hero\ image.png);
     background-size: contain;
-    width: 70vw;
+    width: 85vw;
     height: 100vh;
     background-repeat: no-repeat;
     margin: 0 auto;
-
 }
+
+.logo{
+    display: inline-block;
+    padding: 2% 20%;
+}
+
 .text{
     color:#D67E35;
     position: relative;
-    top: 30%;
-    font-size: 18px;
-    width: 400px;
+    padding: 10%;
+    font-size: 55px;
+    width: 800px;
     text-align: center;
 }
+
 h6{
     color: #FFFFFF;
     font-weight: 100;
     position: relative;
+    padding-top: 2%;
+    font-size: 50%;
 }
+
 h3{
     font-weight: 100;
+    font-size: 90%;
 }
+
 h1{
     font-weight: 100;
+}
+
+li{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 1%;
+    
+}
+
+a{ 
+  font-size: 15px;
+  font-weight: 600;
+  color: #FFFFFF; 
 }
